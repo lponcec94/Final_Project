@@ -8,11 +8,11 @@ The goal of this project is to classify philosophical texts with its author usin
 
 1. State the objective. 
 2. Define the authors and look for the text. 
-    2.1. Convert them to txt file. 
+    * 2.1. Convert them to txt file. 
 3. Clean de text files. 
-    3.1. Remove prologues, indexes, appendices and bibliography. 
-    3.2. Keep only the author's text. 
-    3.3. Eliminate rare symbols. 
+    * 3.1. Remove prologues, indexes, appendices and bibliography. 
+    * 3.2. Keep only the author's text. 
+    * 3.3. Eliminate rare symbols. 
 4. Natural Language processing. 
     4.1. Tokenize the text. 
     4.2. Lemmatize the text. 
